@@ -1,4 +1,5 @@
-# 欢迎来到李健的blog
+# 欢迎来到李健的博客
+现在开启全新的世界！
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/infonetlijian/blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
