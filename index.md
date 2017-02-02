@@ -6,7 +6,7 @@
 >>>>>>> Stashed changes
 ## Welcome to GitHub Pages
 
-！[个人简介](https://github.com/lijianinfonet/blog/raw/master/photos/myself.jpg)
+！[个人简介](https://github.com/infonetlijian/blog/raw/master/photos/myself.jpg)
 
 You can use the [editor on GitHub](https://github.com/infonetlijian/blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
