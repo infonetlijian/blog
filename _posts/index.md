@@ -15,7 +15,7 @@
 {{page.title}}
 
 # 欢迎来到李健的博客
-[**个人简介**](https://github.com/infonetlijian/blog/raw/master/photos/myself.jpg)
+[**个人简介**](https://github.com/infonetlijian/blog/raw/master/photos/picture.jpg)
 ：<br>
 在读硕士
 2015年毕业于安徽大学，获工学学士学位；
