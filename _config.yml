@@ -7,7 +7,7 @@ paginate:     1
 # About/contact
 author:
   name:       李健
-  url:        http://yourhomepage.com 
+  url:        https://infonetlijian.github.io/blog/
 #### Author information
 author:
   name: 李健     ## e.g. wuchong Author name
@@ -25,6 +25,10 @@ author:
   google_plus:    ## e.g. "111190881341800841449" for https://plus.google.com/u/0/111190881341800841449, the "" is needed!
   stackoverflow:  ## e.g. 3222790 for http://stackoverflow.com/users/3222790/jark
 ## if you set them, the corresponding  share button will show on the footer
+#### Links
+links:
+  码农圈: https://coderq.com
+  开发技术前线: http://www.devtf.cn
 
 # Gems
 gems:
