@@ -8,7 +8,7 @@
 [1] Hao Wu, Jian Li, Hancheng Lu, Peilin Hong. A Two-layer Caching Model for Content Delivery Services in Satellite-terrestrial Networks. Accepted, IEEE GLOBECOM 2016.<br>
 [2] Jian Li, Hancheng Lu, Yali Wang. Temporal Netgrid Model based Routing Optimization in Satellite Networks. Accepted, IEEE ICC 2017.<br>
 联系方式：<br>
-`E-mail`: lijian9@mail.ustc.edu.cn <br>
+E-mail: lijian9@mail.ustc.edu.cn <br>
 
 
 <<<<<<< Updated upstream
