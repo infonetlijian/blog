@@ -1,12 +1,17 @@
 # 欢迎来到李健的博客
+
+个人简介
+文献
 <<<<<<< Updated upstream
-现在开启全新的世界！
-=======
+
+
+
+
 
 >>>>>>> Stashed changes
 ## Welcome to GitHub Pages
 
-！[个人简介](https://github.com/infonetlijian/blog/raw/master/photos/myself.jpg)
+[个人简介](https://github.com/infonetlijian/blog/raw/master/photos/myself.jpg)
 
 You can use the [editor on GitHub](https://github.com/infonetlijian/blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -33,6 +38,11 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
+Papers written by myself:
+[1]
+[2]
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
