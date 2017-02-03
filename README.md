@@ -1,42 +1,69 @@
-# Jekyll-Jacman
+# Jekyll Cayman theme
 
-Jekyll-Jacman 是为 [Jekyll](http://jekyllrb.com) 设计的一款清新且具有响应式的主题，拥有更丰富的特性并支持了很多的国内服务。Jacman 始于 [Jacman](https://github.com/wuchong/jacman) 移植而来。
+This is a [Jekyll][1] theme for [@jasonlong][2]'s [Cayman theme][4] on [GitHub Pages][3].
 
-[主题演示](http://simpleyyt.github.io/jekyll-jacman/) | [Yitao's Blog](http://simpleyyt.github.io)
+Cayman is a clean, responsive theme for [GitHub Pages](https://pages.github.com). This theme is available as an option if you use the [Automatic Page Generator](https://help.github.com/articles/creating-pages-with-the-automatic-generator/) or you can copy the template and styles to use on your own.
 
-[如何使用 Jacman 主题](http://simpleyyt.github.io/jekyll-jacman/jekyll/2015/09/20/how-to-use-jacman/)
+You can preview the theme at http://jasonlong.github.io/cayman-theme or with real content at http://jasonlong.github.io/geo_pattern.
 
-##功能
-- **菜单 menu**  
- 主导航菜单
-- **控件 widget**  
- 侧边栏的控件。包括：分类、标签、RSS、友情链接、微博秀。
-- **图片相关 Image**  
- 设置网站图标、网站logo、作者头像、博客顶部大图等。还提供了多种图片样式`img-logo`,`img-topic`,`img-center`等。
-- **首页模式 index**  
- 主题提供了两种首页展示模式。
-- **作者 author**  
- 作者信息，主要用于展示网站右下角的社交网络链接。包括：微博、豆瓣、知乎、邮箱、GitHub、StackOverflow、Twitter、Facebook、Linkedin、Google+。
-- **目录 toc**  
- 在文章中和侧边栏可以显示目录。
-- **评论 comments**  
- 支持 [多说](http://duoshuo.com/) & [disqus](https://disqus.com/) 评论。
-- **分享 jiathis**  
- 启用 内建分享工具 或 [加网](http://www.jiathis.com/) 分享系统。
-- **网站统计 Analytiscs**  
- 支持 [谷歌统计](http://www.google.com/analytics/) & [百度统计](http://tongji.baidu.com/) & [CNZZ站长统计](http://www.cnzz.com/)。
-- **Search**  
- 支持 [谷歌自定义搜索](https://www.google.com/cse/ ) & [百度站内搜索](http://zn.baidu.com/)  &[微搜索](http://tinysou.com/)。
-- **totop**  
- 回到顶部。
-- **rss**  
- RSS 订阅链接。
-- **fancybox**  
- 图片查看的 [Fancybox](http://fancyapps.com/fancybox/) 工具。
-- **自定义主题颜色**
- 在`_config.yaml`中就可以修改主题的颜色，而不用去找那些奇怪的 stylus 文件。
-- **其他**
- 你可以设置侧边栏在博文页面中不显示。
+![](http://cl.ly/image/1T3r3d18311V/content)
 
-##协议
-[MIT](/LICENSE)
+# How to use it?
+
+Download the theme @ http://github.com/pietromenna/jekyll-cayman-theme/archive/master.zip
+
+Unzip it and use it as a regular jekyll folder.
+
+```
+$ unzip jekyll-cayman-theme-master.zip
+```
+
+Get inside the newly extracted folder
+```
+$ cd jekyll-cayman-theme-master
+```
+
+Get the required gems
+```
+$ bundle install
+```
+
+Use it!
+
+```
+$ jekyll serve
+```
+
+For more details read about [Jekyll][1] on its web page.
+
+# Setup
+
+Some important configuration can be done in the file `_config.yml`. Please, check the Setup section in that file.
+
+
+## baseurl
+
+`baseurl` parameter is required in the case the site doesn't sit on the root of the domain. For example: http://pietromenna.github.io/jekyll-cayman-theme
+
+In the case above the baseurl should be set to "/jekyll-cayman-theme".
+
+In the case the site sits in the root, you can leave `baseurl` as empty "".
+
+# Contributing
+
+Bug reports and pull requests are welcome on GitHub at https://github.com/pietromenn/jekyll-cayman-theme.
+
+# Development
+
+To set up your environment to develop this theme, run `bundle install`.
+
+You theme is setup just like a normal Jelyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
+
+# License
+
+This work is licensed under a [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/) license.
+
+[1]: http://jekyllrb.com/
+[2]: https://github.com/jasonlong
+[3]: http://pages.github.com/
+[4]: https://github.com/jasonlong/cayman-theme
