@@ -1,16 +1,17 @@
 # Setup
 title:        李健的博客
 tagline:      欢迎来到通信攻城狮的世界
-baseurl:      ""
+baseurl:      "https://infonetlijian.github.io/Blog_demo/"
 paginate:     1
 
 # About/contact
 author:
-  name:       李健
-  url:        https://infonetlijian.github.io/blog/
+  name:       Mr.Cheng
+  url:        https://infonetlijian.github.io/Blog_demo/
 #### Author information
 author:
-  name: 李健     ## e.g. wuchong Author name
+  name:       Mr.Cheng
+  url:        https://infonetlijian.github.io/Blog_demo/
   intro_line1:  "Hello ,I'm Mr.Cheng."    ## your introduction on the bottom of the page
   intro_line2:  "This is my blog, believe it or not."  ## the 2nd line
   weibo:      ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
@@ -25,14 +26,16 @@ author:
   google_plus:    ## e.g. "111190881341800841449" for https://plus.google.com/u/0/111190881341800841449, the "" is needed!
   stackoverflow:  ## e.g. 3222790 for http://stackoverflow.com/users/3222790/jark
 ## if you set them, the corresponding  share button will show on the footer
-#### Links
-links:
-  码农圈: https://coderq.com
-  开发技术前线: http://www.devtf.cn
 
 # Gems
-gems:
+gems: 
   - jekyll-paginate
 
 #Others
 markdown: kramdown
+# ---------------- #
+#     Disqus       #
+# ---------------- #
+disqus: true
+disqus_shortname: NathenDrake
+
