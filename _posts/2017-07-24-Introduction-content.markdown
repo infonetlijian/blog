@@ -9,6 +9,7 @@ categories: main
 **Introduction**：<br>
 
 Satellite Networks Simulation Platform<br>
+![SNSP](/infonetlijian/blog/images/icon.png)
 <br>
 **Associated Paper:**：<br>
 [1] Jian Li, Hancheng Lu, Yali Wang. Temporal Netgrid Model based Routing Optimization in Satellite Networks. Accepted, IEEE ICC 2017.<br>
