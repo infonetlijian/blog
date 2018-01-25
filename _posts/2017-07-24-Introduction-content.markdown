@@ -8,15 +8,15 @@ categories: main
 
 **Introduction**：<br>
 
-Satellite Networks Simulation Platform<br>
-![SNSP](/infonetlijian/blog/images/icon.png)
+Large-scale Satellite Network Simulator (LSNS)<br>
+![LSNS](/infonetlijian/blog/images/icon.png)
 <br>
 **Associated Paper:**：<br>
 [1] Jian Li, Hancheng Lu, Yali Wang. Temporal Netgrid Model based Routing Optimization in Satellite Networks. Accepted, IEEE ICC 2017.<br>
 
 <br>
 **Contact**：<br>
-E-mail: lijian9@mail.ustc.edu.cn <br>
+E-mail: lijian9@mail.ustc.edu.cn, hclu@ustc.edu.cn<br>
 [**Lab**](http://if.ustc.edu.cn)<br>
 <br>
 <br>

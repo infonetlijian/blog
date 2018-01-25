@@ -1,6 +1,6 @@
 # Setup
-title:        Satellite Networks Simulation Platform
-tagline:      The universal and lightweight simulator for satellite networks
+title:        Large-scale Satellite Network Simulator
+tagline:      A universal and lightweight simulator for satellite networks
 baseurl:      "https://infonetlijian.github.io/blog/"
 paginate:     1
 
@@ -12,8 +12,7 @@ author:
 author:
   name:       Mr.Cheng
   url:        https://infonetlijian.github.io/blog/
-  intro_line1:  "Hello ,I'm Mr.Cheng."    ## your introduction on the bottom of the page
-  intro_line2:  "This is my blog, believe it or not."  ## the 2nd line
+ 
   weibo:      ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
   weibo_verifier:  ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
   tsina:      ## e.g. 2176287895  Your weibo ID,It will be used in share button.
